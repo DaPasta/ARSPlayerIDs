@@ -92,3 +92,6 @@
     "35019113279BF26C": "Waterman",
     "F1A846A0B44E9C69": "Cat Craze",
     "D1B352029BB4F9E3": "Zellix"
+    "3EF5A4B8A0EE7BA8": "Pasta"
+    "38E2F732D0A8C7D": "Pasta"
+    "ADFABA750C578B6C": "Shadow14"

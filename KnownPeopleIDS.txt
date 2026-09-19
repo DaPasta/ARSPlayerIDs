@@ -94,4 +94,5 @@
     "D1B352029BB4F9E3": "Zellix",
     "3EF5A4B8A0EE7BA8": "Pasta",
     "38E2F732D0A8C7D": "Pasta",
-    "ADFABA750C578B6C": "Shadow14"
+    "ADFABA750C578B6C": "Shadow14",
+    "4605B2A0900028E1": "Resurgence"

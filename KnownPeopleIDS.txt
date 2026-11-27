@@ -99,5 +99,4 @@
     "4605B2A0900028E1": "Resurgence",
     "FCB297D244D15315": "Colossal",
     "6B5297B178D5F942": "Sl4bs",
-    "20AFE6D577D6FAAE": "PizzaRolls or something",
-    "AAB44BFD0BA34829": "Boda New"
+    "20AFE6D577D6FAAE": "PizzaRolls or something"
